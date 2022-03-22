@@ -1,4 +1,4 @@
-# PlantSingleCellAnalysis
+# Plant Single Cell Analysis
 Analysis pipeline for plant single cell data
 
 ## Citations
