@@ -1,5 +1,5 @@
 # Plant Single Cell Analysis
-Analysis pipeline for plant single cell data
+Analysis pipeline for plant scRNA-seq data
 
 ## Citations
 This github accompanies the book chapter "Development and application of scRNA-seq in Arabidopsis root using 10X-genomics based technology" (Methods. Mol. Biol., XXX?) and the processing pipeline was used in:
